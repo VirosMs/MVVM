@@ -23,4 +23,4 @@ La arquitectura Model-View-ViewModel (MVVM) presenta varias ventajas para el des
 Si deseas comenzar con esta práctica, asegúrate de tener Android Studio instalado en tu máquina. Luego, clona o descarga este repositorio y ábrelo en Android Studio para comenzar a trabajar en el proyecto.
 
 ```bash
-git clone <[URL_DEL_REPO](https://github.com/VirosMs/MVVM.git)https://github.com/VirosMs/MVVM.git>
+git clone [URL_DEL_REPO](https://github.com/VirosMs/MVVM.git)https://github.com/VirosMs/MVVM.git
