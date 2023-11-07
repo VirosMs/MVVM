@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVN</string>
+    <string name="capital">Capital</string>
+    <string name="plazo">Plazo</string>
+    <string name="calcular_cuota_mensual">Calcular cuota mensual</string>
+</resources>
